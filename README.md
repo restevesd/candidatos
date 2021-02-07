@@ -1,67 +1,31 @@
 # Visualizando los candidatos a la presidencia del Ecuador
 
-##Antedecedentes
+## Antedecedentes
 
 En Ecuador el mes de Febrero del 2021 son las elecciones presidenciales, elecciones marcadas por un año 2020 de pandemia y recesión económica, por lo que se vuelve una de las más importantes desde el regreso a la vida democrática del Ecuador.
 
 Como particularidad tenemos 16 binomios presidenciales inscritos para la lid electoral, pueden ver los candidatos aquí -> https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2021
 
-## Comenzando ??
+## Objetivos ??
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+Necesitamos hacer un seguimiento a todos los candidatos a la presidencia, tanto lo que ellos dicen como lo que dicen de ellos, de esta manera podemos tener una idea más clara de las propuestas de campaña.
 
 
-### Pre-requisitos ??
+### Leer el post completo ??
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Más información del proyecto lo pueden encontrar aquí -> https://masapp.medium.com/visualizando-los-candidatos-a-la-presidencia-del-ecuador-ac3f499bf58
 
-```
-Da un ejemplo
-```
 
-### Instalación ??
+### Datasets Utilizados ??
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+Para este dashboard se están utilizando dos dataset
 
-_Dí cómo será ese paso_
+• Candidatos: Con los tweets de los candidatos a la presidencia del Ecuador 2021 
+• Tweet_Data2: Con los tweets que se menciona las cuentas de los candidatos a la presidencia del Ecuador 2021
 
-```
-Da un ejemplo
-```
+Ambos archivos están en formato CSV, el primer dataset tiene +20K registros, el segundo dataset tiene +1M registros
 
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ??
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end ??
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ??
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue ??
-
-_Agrega notas adicionales sobre como hacer deploy_
+Por un tema de peso el dataset Tweet_Data2 lo encuentran aquí -> https://drive.google.com/drive/folders/1pWSyK1GRfgV3WGey3EYL03fRAlSepEry?usp=sharing
 
 ## Construido con ???
 
@@ -71,18 +35,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
-## Contribuyendo ???
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki ??
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado ??
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
 ## Autores ??
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
@@ -90,11 +42,9 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
 ## Licencia ??
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>.
 
 ## Expresiones de Gratitud ??
 
