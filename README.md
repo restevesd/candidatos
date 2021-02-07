@@ -30,10 +30,10 @@ Por un tema de peso el dataset Tweet_Data2 lo encuentran aquí -> https://drive.g
 ## Construido con
 
 * [R](https://cran.r-project.org/bin/windows/base/)
-* [R Studio] (https://rstudio.com/products/rstudio/download/)
+* [R Studio](https://rstudio.com/products/rstudio/download/)
 * [MySQL](https://dev.mysql.com/downloads/)
 * [Amazon Lightsail](https://lightsail.aws.amazon.com/)
-* [Dockers] (https://www.docker.com/)
+* [Dockers](https://www.docker.com/)
 
 ## Autores
 
