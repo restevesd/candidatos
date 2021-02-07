@@ -29,18 +29,18 @@ Por un tema de peso el dataset Tweet_Data2 lo encuentran aquí -> https://drive.g
 
 ## Construido con
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [R](https://cran.r-project.org/bin/windows/base/)
+* [R Studio] (https://rstudio.com/products/rstudio/download/)
+* [MySQL](https://dev.mysql.com/downloads/)
+* [Amazon Lightsail](https://lightsail.aws.amazon.com/)
+* [Dockers] (https://www.docker.com/)
 
 ## Autores
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+Este trabajo es realizado por [Masapp] (http://www.masappec.com) y gracias a la participación de:
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **María Fernanda Jurado** -* FrontEnd*- 
+* **Roberto Esteves** - *BackEnd* - https://www.linkedin.com/in/restevesd/
 
 ## Licencia
 
@@ -48,8 +48,9 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 ## Expresiones de Gratitud 
 
-* Comenta a otros sobre este proyecto ??
-* Invita una cerveza ?? o un café ? a alguien del equipo. 
-* Da las gracias públicamente ??.
-* etc.
+* Síguenos en nuestras redes sociales
+* Twitter - https://twitter.com/masappdata
+* Facebook - https://www.facebook.com/MasappEC
+* LinkedN - https://www.linkedin.com/company/masapp/
+* Medium - https://masapp.medium.com/
 
