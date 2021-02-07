@@ -27,6 +27,31 @@ Ambos archivos están en formato CSV, el primer dataset tiene +20K registros, el 
 
 Por un tema de peso el dataset Tweet_Data2 lo encuentran aquí -> https://drive.google.com/drive/folders/1pWSyK1GRfgV3WGey3EYL03fRAlSepEry?usp=sharing
 
+### Columnas
+
+* user_id
+* status_id
+* created_at
+* screen_name
+* text
+* source
+* reply_to_screen_name
+* is_retweet
+* is_quote
+* retweet_count
+* quote_count
+* reply_count
+* hashtags
+* mentions_screen_name
+* retweet_screen_name
+* description
+* followers_count
+* friends_count
+* statuses_count
+* favourites_count
+* account_created_at
+* text_cleaned
+
 ## Construido con
 
 * [R](https://cran.r-project.org/bin/windows/base/)
