@@ -52,7 +52,7 @@ Hay algunas columnas que se exportaron como valores NULL que hay que depurar.
 * statuses_count
 * favourites_count
 * account_created_at
-* text_cleaned
+* *text_cleaned*: Texto que ya pasó por un proceso de limpieza.
 
 ## Construido con
 
@@ -61,12 +61,13 @@ Hay algunas columnas que se exportaron como valores NULL que hay que depurar.
 * [MySQL](https://dev.mysql.com/downloads/)
 * [Amazon Lightsail](https://lightsail.aws.amazon.com/)
 * [Dockers](https://www.docker.com/)
+* [Shiny](https://shiny.rstudio.com/)
 
 ## Autores
 
 Este trabajo es realizado por [Masapp] (http://www.masappec.com) y gracias a la participación de:
 
-* **María Fernanda Jurado** -* FrontEnd*- 
+* **Fernanda Jurado** - *FrontEnd* - 
 * **Roberto Esteves** - *BackEnd* - https://www.linkedin.com/in/restevesd/
 
 ## Licencia
