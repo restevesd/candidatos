@@ -29,6 +29,8 @@ Por un tema de peso el dataset Tweet_Data2 lo encuentran aquí -> https://drive.g
 
 ### Columnas
 
+Hay algunas columnas que se exportaron como valores NULL que hay que depurar.
+
 * user_id
 * status_id
 * created_at
