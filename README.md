@@ -20,8 +20,8 @@ Más información del proyecto lo pueden encontrar aquí -> https://masapp.medium.c
 
 Para este dashboard se están utilizando dos dataset
 
-• Candidatos: Con los tweets de los candidatos a la presidencia del Ecuador 2021 
-• Tweet_Data2: Con los tweets que se menciona las cuentas de los candidatos a la presidencia del Ecuador 2021
+*• **Candidatos:** Con los tweets de los candidatos a la presidencia del Ecuador 2021 
+*• **Tweet_Data2:** Con los tweets que se menciona las cuentas de los candidatos a la presidencia del Ecuador 2021
 
 Ambos archivos están en formato CSV, el primer dataset tiene +20K registros, el segundo dataset tiene +1M registros
 
