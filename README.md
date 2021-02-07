@@ -1,6 +1,10 @@
-# Título del Proyecto
+# Visualizando los candidatos a la presidencia del Ecuador
 
-_Acá va un párrafo que describa lo que es el proyecto_
+##Antedecedentes
+
+En Ecuador el mes de Febrero del 2021 son las elecciones presidenciales, elecciones marcadas por un año 2020 de pandemia y recesión económica, por lo que se vuelve una de las más importantes desde el regreso a la vida democrática del Ecuador.
+
+Como particularidad tenemos 16 binomios presidenciales inscritos para la lid electoral, pueden ver los candidatos aquí -> https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2021
 
 ## Comenzando ??
 
